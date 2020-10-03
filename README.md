@@ -1,6 +1,5 @@
 # INFO6150
 Class syllabus and class notes can be found in the `docs` directory in this repo.
-<<<<<<< HEAD
 
 Repository of notes and in-class example files.
 
@@ -14,7 +13,6 @@ We will use github repos throughout the course. If you are not familiar with git
 
 # Forking class repo and setting upstream remote
 1. Make sure you have git installed: https://git-scm.com/downloads
->>>>>>> 82e60d6e7cc9c199b434cc7fb5cde042dee3cb02
 2. Go to the git repo for this class: https://github.com/aprilbingham-neu/seainfo6150
 3. Click “Fork” to create your copy of the repo
 4. Click “Clone or download” to get a link to copy your fork on your computer
@@ -27,7 +25,7 @@ cd seainfo6150
 git remote add upstream https://github.com/aprilbingham-neu/seainfo6150
 ```
 
-<<<<<<< HEAD
+
 # Pushing your changes to your fork
 1. Make changes in your fork
 2. Open command line and use these commands
@@ -36,7 +34,8 @@ cd seainfo6150
 git add .
 git commit -m “[commit name]”
 git push origin master
-=======
+```
+
 # Creating a branch from master
 ```
 cd seainfo6150
@@ -58,7 +57,6 @@ Make changes to your branch, then
 git add .
 git commit -m “[commit name]”
 git push origin [branch name]
->>>>>>> 82e60d6e7cc9c199b434cc7fb5cde042dee3cb02
 ```
 
 # Pulling updates from main repo
